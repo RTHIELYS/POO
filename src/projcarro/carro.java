@@ -107,10 +107,8 @@ void trocaMaecha {int novaMarcha} {
       if (novaMarcha > numMarcha){
         System.out.println("Não existe marcha");
         }else{
-          marchaAtual =  nova marcha;
+          marchaAtual =  novaMarcha;
         }
-
-
-
-
 }
+   void reduzMarcha () {marchaAtual = - 1;}
+                       }
